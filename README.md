@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Sharma</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
+I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Institute of Technology, Pune. My passion lies in leveraging Artificial Intelligence and Machine Learning to solve complex, real-world problems. With a solid foundation in AI/ML, Deep Learning, and MLOps, I am dedicated to creating practical and impactful applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshsharma2521&label=Profile%20views&color=0e75b6&style=flat" alt="anshsharma2521" /> </p>
 
@@ -12,6 +13,14 @@
 - 💬 Ask me about **ML,DL and NLP**
 
 - 📫 How to reach me **anshsharma11109@gmail.com**
+
+<h3 align="left">💼 Experience:</h3>
+<h4 align = "Left"><b>AI/ML Intern | YoloBus.in - An EaseMyTrip.com Company (07/2024 - Present)</b></h4>
+  - Developing a Dynamic Pricing Engine to predict bus ticket prices.
+<h4 align = "Left">AI Research Intern | Symbiosis Centre for Applied Artificial Intelligence (06/2024 - Present)</b></h4>
+  - AI Research Intern Under Dr. Shilpa Gite
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
