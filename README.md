@@ -10,7 +10,7 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
 
 - 🌱 I’m currently learning **MLOPs**
 
-- 💬 Ask me about **ML,DL and NLP**
+- 💬 Ask me about **ML, DL, NLP, Robotics**
 
 - 📫 How to reach me **anshsharma11109@gmail.com**
 
