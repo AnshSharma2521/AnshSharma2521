@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Sharma</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<h3 align="center">A passionate AI/ML developer </h3>
 I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Institute of Technology, Pune. My passion lies in leveraging Artificial Intelligence and Machine Learning to solve complex, real-world problems. With a solid foundation in AI/ML, Deep Learning, and MLOps, I am dedicated to creating practical and impactful applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshsharma2521&label=Profile%20views&color=0e75b6&style=flat" alt="anshsharma2521" /> </p>
