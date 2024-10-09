@@ -9,7 +9,7 @@
     <img src="./animated-line-image-0386.gif" width="100%" alt="animated line gif"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AnshSharma2521/AnshSharma2521/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif">
+<img align="right" alt="Coding" width="400" src="242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshSharma2521&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
 
