@@ -25,7 +25,7 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
 
 - 📫 How to reach me **anshsharma11109@gmail.com**
 
-- <h3 align="left">💼 Experience:</h3>
+<h2 align="left">💼 Experience:</h2>
 <h4 align = "Left"><b>AI/ML Intern | YoloBus.in - An EaseMyTrip.com Company (07/2024 - Present)</b></h4>
   - Developing a Dynamic Pricing Engine to predict bus ticket prices.
 <h4 align = "Left">AI Research Intern | Symbiosis Centre for Applied Artificial Intelligence (06/2024 - Present)</b></h4>
@@ -45,7 +45,7 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
 
 <img src="./animated-line-image-0386.gif" width="1920" />
 
-<h3 align="center">Programming Languages</h3>
+<h2 align="center">Programming Languages</h2>
 <div align="center">
   <a href="#">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -56,7 +56,7 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
   </a>
 </div>
 
-<h3 align="center">Artificial Intelligence ,Machine Learning Tools, Data Science and Analytics tools</h3>
+<h2 align="center">Artificial Intelligence ,Machine Learning Tools, Data Science and Analytics tools</h2>
 <div align="center">
   <a href="#"
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -89,7 +89,7 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
   </a>
 </div>
 
-<h3 align="center">API Tools</h3>
+<h2 align="center">API Tools</h2>
 <div align="center">
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
@@ -101,7 +101,7 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
 
 </div>
 
-<h3 align="center">Data Base Tools</h3>
+<h2 align="center">Data Base Tools</h2>
 <div align="center">
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
@@ -129,6 +129,6 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
     <img src="https://streak-stats.demolab.com/?user=AnshSharma2521&count_private=true&theme=blue-green&title_color=00b3ff" alt="My Skills">
   </a>
 </div>
-<a href=#><img src="contributions.svg"></a>
+<p align="center"><img src="./animated-line-image-0381.gif" width="1920" /></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
