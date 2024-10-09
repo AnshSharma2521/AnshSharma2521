@@ -37,9 +37,6 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
 <a href="https://linkedin.com/in/anshsharma2521/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ansh Sharma LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:anshsharma11109@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="anshsharma11109@gmail.com" height="30" width="40" />
-</a>
 <a href="https://www.kaggle.com/rawbinn2521" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" />
 </a>
@@ -59,7 +56,7 @@ I am currently pursuing a B.Tech in Robotics and Automation from Symbiosis Insti
   </a>
 </div>
 
-<h3 align="center">Artificial Intelligence ,Machine Learning Tools and Data Science tools</h3>
+<h3 align="center">Artificial Intelligence ,Machine Learning Tools, Data Science and Analytics tools</h3>
 <div align="center">
   <a href="#"
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
